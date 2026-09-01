@@ -1,0 +1,17 @@
+# Fichiers de configuration sensibles — NE JAMAIS COMMITER
+backend/config.php
+frontend/.env.local
+.env
+.env.local
+
+# Dépendances
+frontend/node_modules/
+frontend/.next/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
