@@ -295,7 +295,7 @@ export default function ChatPage() {
             </button>
             <div>
               <h1 style={{ fontSize: 18, margin: 0, color: "#1A3C5E" }}>
-                🛍️ Africa Shopping - Agent Marketing IA
+                🛍️ Agent Marketing IA - Africa Shopping
               </h1>
               <p style={{ fontSize: 12, color: "#888", margin: "2px 0 0" }}>
                 Stratégie & création de contenu
