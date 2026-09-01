@@ -1,4 +1,4 @@
-# Africa Shopping — Agent Marketing IA (V1)
+# Africa Shopping - Agent Marketing IA (V1)
 
 Projet de départ : interface de chat Next.js + backend PHP + IA gratuite (Google Gemini).
 
